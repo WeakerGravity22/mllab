@@ -7,7 +7,7 @@ public class MySwap {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-        // Swapping using a temporary variable
+        
         int temp = a;
         a = b;
         b = temp;
